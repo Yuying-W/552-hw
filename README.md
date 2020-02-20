@@ -1,6 +1,10 @@
-# 552-hw
-The repo is about 2 course projects for INF 552.   
-Related Data Science Libraries: **numpy, pandas, matplotlib, scikit-learn, seaborn**
+# Machine Learning with Python
+**Libraries:** 
+- `numpy`
+- `pandas`
+- `scikit-learn`
+- `matplotlib`
+- `seaborn`
 
 ## Homework 2
 In homework2, various regression methods were applied to analyze Cycle Power data over 6 years (2006-2011), includes:
