@@ -6,21 +6,20 @@
 - `matplotlib`
 - `seaborn`
 
-## Homework 2
-In homework2, various regression methods were applied to analyze Cycle Power data over 6 years (2006-2011), includes:
-* simple linear regression
-* multiple linear regression
-* nonlinear regression 
-* full linear regression with interations 
+## Linear Regression (LR)
+The following regression methods were applied to analyze the dataset **Cycle Power data over 6 years (2006-2011)**, includes:
+* Simple LR
+* Multiple LR
+* Nonlinear LR 
+* Full LR with Interations 
 
 To better analyze dataset and illustrate results, pairplots and scatterplots were plotted as shown in the notebook.
 
-## Homework 6
-In homework6, I do the following types of learning based on SVM on the Breast Cancer Wisconsin (Diagnostic) Data Set:
-* Supervised Learning       (see 552_hw6_1.ipynb)
-* Unsupervised Learning     (see 552_hw6_2.ipynb)
-* Semi-Supervised Learning  (see 552_hw6_3.ipynb)  
 
-And then compare scores(accuracy, precision, recall, F-score and AUC) obtained from those 3 algorithms. When need to control
-the cost of building a model, it is wise to choose Semi-Supevised Learning.
+## SVM
+Following types of learning based on  SVM were applied on the **Breast Cancer Wisconsin (Diagnostic) Dataset**:
+* Supervised Learning       (see `Supervised-Learning.ipynb`)
+* Unsupervised Learning     (see `Unsupervised-Learning.ipynb`)
+* Semi-Supervised Learning  (see `Semi-Supervised-Learning.ipynb`)  
 
+And then compare scores(**Accuracy, Precision, Recall, F-score, AUC**) obtained from those 3 algorithms. 
